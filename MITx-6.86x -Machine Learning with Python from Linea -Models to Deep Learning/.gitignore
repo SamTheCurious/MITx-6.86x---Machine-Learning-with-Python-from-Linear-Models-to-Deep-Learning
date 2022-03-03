@@ -1,0 +1,7 @@
+*.pdf
+*.jpg
+*.pyc
+*.gz
+*.pt
+data/*
+.Rhi*
